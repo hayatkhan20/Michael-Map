@@ -1,0 +1,27 @@
+body { margin:0; padding:0; }
+
+.h1{
+    color: aquamarine;
+}
+/* Add custom styles for popups */
+.custom-popup {
+    border-radius: 10px;
+    background-color: rgba(71, 217, 228, 0.1);
+    padding: 10px;
+    
+  }
+ 
+  .custom-popup-style {
+    border: none;
+    border-radius: 10px;
+  }
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: 50px; /* Adjust the margin size as needed */
+    border-radius: 10px; /* Adjust the border-radius for rounder corners */
+  }
+  
